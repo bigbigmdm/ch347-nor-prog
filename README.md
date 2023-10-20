@@ -18,7 +18,7 @@ Pretty impressive for a 32CNY board :)
 
 # BUILDING
 ```
-cd IMSProg_programmer
+cd ch347-nor-prog-master
 mkdir build
 cd build
 cmake ..
